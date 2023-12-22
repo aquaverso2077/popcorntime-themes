@@ -3447,12 +3447,12 @@ body,
   font-size: 85%;
 }
 .item .cover .cover-overlay .rating-stars .rating-star {
-  color: #ffc900;
+  color: #fabd2f;
   padding-right: 0px;
   vertical-align: middle;
 }
 .item .cover .cover-overlay .rating-stars .rating-star-half {
-  color: #ffc900;
+  color: #fabd2f;
   width: 50%;
 }
 .item .cover .cover-overlay .rating-stars .rating-star-half-empty {
@@ -3882,12 +3882,12 @@ body,
   cursor: pointer;
 }
 .movie-detail .content-box .meta-container .metadatas .rating-container .star-container .rating-star {
-  color: #ffc900;
+  color: #fabd2f;
   font-size: 11px;
   padding-right: 3px;
 }
 .movie-detail .content-box .meta-container .metadatas .rating-container .star-container .rating-star-half {
-  color: #ffc900;
+  color: #fabd2f;
   font-size: 11px;
   margin-left: -4px;
   padding-right: 3px;
@@ -4653,12 +4653,12 @@ body,
   opacity: 1;
 }
 .show-detail-container .show-header .sh-metadata .shm-infos div.shmi-rating .star-container-tv .rating-star {
-  color: #ffc900;
+  color: #fabd2f;
   font-size: 11px;
   padding-right: 3px;
 }
 .show-detail-container .show-header .sh-metadata .shm-infos div.shmi-rating .star-container-tv .rating-star-half {
-  color: #ffc900;
+  color: #fabd2f;
   font-size: 11px;
   margin-left: -4px;
   padding-right: 3px;
