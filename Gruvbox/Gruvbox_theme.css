@@ -443,7 +443,7 @@ ul.nav-hor > li {
 }
 .player .maximize-icon:hover {
   color: #fff;
-  background: #b16286g;
+  background: #b16286;
   opacity: 1;
 }
 .player .maximize-icon.done:hover {
