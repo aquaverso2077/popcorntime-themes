@@ -1,6 +1,6 @@
 /* Gruvbox theme for Popcorntime */
 /* sudo cp Gruvbox_theme.css /usr/share/popcorntime/src/app/themes/ */
-/* https://github.com/aquaverso2077/dots */
+/* https://github.com/aquaverso2077/popcorntime-themes */
 html,
 body,
 div,
@@ -3920,13 +3920,13 @@ body,
   cursor: pointer;
 }
 .movie-detail .content-box .meta-container .metadatas .health-icon.Bad {
-  color: #d53f3f;
+  color: #fb4934;
 }
 .movie-detail .content-box .meta-container .metadatas .health-icon.Medium {
-  color: #ece523;
+  color: #fabd2f;
 }
 .movie-detail .content-box .meta-container .metadatas .health-icon.Good {
-  color: #a3e147;
+  color: #8ec07c;
 }
 .movie-detail .content-box .meta-container .metadatas .health-icon.Excellent {
   color: #2ad942;
@@ -5102,13 +5102,13 @@ body,
   transition: all 0.3s ease-in;
 }
 .show-detail-container .show-details .sd-overview .sdo-infos .sdoi-links .health-icon.Bad {
-  color: #d53f3f;
+  color: #fb4934;
 }
 .show-detail-container .show-details .sd-overview .sdo-infos .sdoi-links .health-icon.Medium {
-  color: #ece523;
+  color: #fabd2f;
 }
 .show-detail-container .show-details .sd-overview .sdo-infos .sdoi-links .health-icon.Good {
-  color: #a3e147;
+  color: #8ec07c;
 }
 .show-detail-container .show-details .sd-overview .sdo-infos .sdoi-links .health-icon.Excellent {
   color: #2ad942;
@@ -8704,13 +8704,13 @@ body,
   transition: all 0.3s ease-in;
 }
 .seedbox-container .content .seedbox-details .seedbox-overview .seedbox-infos .seedbox-infos-links .health-icon.Bad {
-  color: #d53f3f;
+  color: #fb4934;
 }
 .seedbox-container .content .seedbox-details .seedbox-overview .seedbox-infos .seedbox-infos-links .health-icon.Medium {
-  color: #ece523;
+  color: #fabd2f;
 }
 .seedbox-container .content .seedbox-details .seedbox-overview .seedbox-infos .seedbox-infos-links .health-icon.Good {
-  color: #a3e147;
+  color: #8ec07c;
 }
 .seedbox-container .content .seedbox-details .seedbox-overview .seedbox-infos .seedbox-infos-links .health-icon.Excellent {
   color: #2ad942;
