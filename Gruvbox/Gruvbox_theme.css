@@ -387,7 +387,7 @@ ul.nav-hor > li {
         }
 
         &.green{
-            background-color #689d6a
+            background-color #8ec07c
         }
         &.red{
             background-color #fb4934
@@ -447,7 +447,7 @@ ul.nav-hor > li {
   opacity: 1;
 }
 .player .maximize-icon.done:hover {
-  background: #689d6a;
+  background: #8ec07c;
 }
 .player .maximize-icon > * {
   font-size: 12px;
@@ -2300,13 +2300,13 @@ body,
 }
 .loading-container .ball {
   background-color: rgba(0,0,0,0);
-  border: 5px solid rgba(0,183,229,0.9);
+  border: 5px solid rgba(131,165,152,0.9);
   opacity: 0.9;
   border-top: 5px solid rgba(0,0,0,0);
   border-left: 5px solid rgba(0,0,0,0);
   border-radius: 50px;
-  -webkit-box-shadow: 0 0 35px #2187e7;
-  box-shadow: 0 0 35px #2187e7;
+  -webkit-box-shadow: 0 0 35px #458588;
+  box-shadow: 0 0 35px #458588;
   width: 50px;
   height: 50px;
   margin: 0 auto;
@@ -2315,13 +2315,13 @@ body,
 }
 .loading-container .ball1 {
   background-color: rgba(0,0,0,0);
-  border: 5px solid rgba(0,183,229,0.9);
+  border: 5px solid rgba(131,165,152,0.9);
   opacity: 0.9;
   border-top: 5px solid rgba(0,0,0,0);
   border-left: 5px solid rgba(0,0,0,0);
   border-radius: 50px;
-  -webkit-box-shadow: 0 0 15px #2187e7;
-  box-shadow: 0 0 15px #2187e7;
+  -webkit-box-shadow: 0 0 15px #458588;
+  box-shadow: 0 0 15px #458588;
   width: 30px;
   height: 30px;
   margin-top: 10px;
@@ -2382,7 +2382,7 @@ body,
   font-weight: 900;
   font-size: 12px;
   margin-right: -14px;
-  color: #4bfff4;
+  color: #85a598;
   position: relative;
   float: left;
   left: -21px;
@@ -6575,7 +6575,7 @@ body,
   font-weight: 900;
   font-size: 10px;
   margin-right: -14px;
-  color: #4bfff4;
+  color: #85a598;
   position: relative;
   float: left;
   left: -15px;
@@ -7598,7 +7598,7 @@ body,
   background-color: #393b3d;
 }
 .settings-container-contain .settings-container .btn-settings.ok {
-  background-color: #689d6a;
+  background-color: #8ec07c;
 }
 .settings-container-contain .settings-container .btn-settings.warning {
   background-color: #fb4934;
@@ -7767,7 +7767,7 @@ body,
   font-weight: 900;
   font-size: 12px;
   margin-right: -14px;
-  color: #4bfff4;
+  color: #85a598;
   position: relative;
   float: left;
   left: -21px;
@@ -7923,7 +7923,7 @@ body,
   opacity: 1;
 }
 .loading .maximize-icon.done:hover {
-  background: #689d6a;
+  background: #8ec07c;
 }
 .loading .maximize-icon > * {
   font-size: 12px;
@@ -8344,10 +8344,10 @@ body,
   opacity: 1;
 }
 #notification .notification.info {
-  background: #3498db;
+  background: #83a598;
 }
 #notification .notification.success {
-  background: #689d6a;
+  background: #8ec07c;
 }
 #notification .notification.warning {
   background: #dbb756;
@@ -8994,9 +8994,9 @@ body,
   background-image: linear-gradient(to bottom, #fb6340 100%, #fb6340 100%);
 }
 .seedbox-container .content .progress-bar.done {
-  background-color: #689d6a;
-  background-image: -webkit-linear-gradient(top, #689d6a 100%, #689d6a 100%);
-  background-image: linear-gradient(to bottom, #689d6a 100%, #689d6a 100%);
+  background-color: #8ec07c;
+  background-image: -webkit-linear-gradient(top, #8ec07c 100%, #8ec07c 100%);
+  background-image: linear-gradient(to bottom, #8ec07c 100%, #8ec07c 100%);
 }
 .seedbox-container .content .progress-info {
   margin-bottom: 0.5rem;
