@@ -1,5 +1,5 @@
 # How Install
-> *sudo cp Gruvbox_theme.css /usr/share/popcorntime/src/app/themes/*
+    sudo cp Gruvbox_theme.css /usr/share/popcorntime/src/app/themes/
 
 | **Screenshots** |
 | :--: |
